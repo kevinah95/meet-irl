@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "./node_modules/.bin/karma start --single-run --browsers Chrome",
+    "test": "./node_modules/.bin/karma start --browsers Firefox --single-run",
     "start": "node server.js"
   },
   "author": "",
